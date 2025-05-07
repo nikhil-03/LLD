@@ -1,0 +1,15 @@
+Used when folder/file inside a folder or employee designation chain kind of situation is there.
+
+
+Movie
+    Comedy Movie
+        Hungama
+        Golmaal
+        Audio
+          Hindi
+    Horror Movie
+        Sinner
+        Until Down
+        Audio
+           Hindi
+           English
